@@ -1,0 +1,9 @@
+list1=[0,1,2,10,4,1,0,56,2,0,1,3,0,56,0,4]
+list1.sort()
+print(list1)
+x=list1[0:4]
+print(x)
+z=list1+x
+print(z)
+y=z[5:]
+print(y)
